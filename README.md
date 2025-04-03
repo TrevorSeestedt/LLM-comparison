@@ -66,7 +66,3 @@ The notebook includes several visualizations:
 - Confusion matrices for all models
 - Performance comparison charts
 - Accuracy and F1-score comparisons
-
-## Conclusion
-
-The project demonstrates that while transformer-based models can achieve superior performance when fine-tuned, traditional machine learning approaches can still be competitive for certain NLP tasks. The choice of model should consider the trade-off between performance, computational resources, and time constraints.
